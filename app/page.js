@@ -1,8 +1,8 @@
-import Navbar from "@/components/common/Navbar";
-import EducationSection from "@/components/educationsection/EducationSection";
-import Experience from "@/components/experience/Experience";
-import HeroSection from "@/components/herosection/HeroSection";
-import Skills from "@/components/skills/Skills";
+import EducationSection from "./components/educationsection/EducationSection";
+import Experience from "./components/experience/Experience";
+import HeroSection from "./components/herosection/HeroSection";
+import Project from "./components/projects/Project";
+import Skills from "./components/skills/Skills";
 
 export default function Home() {
   return (
@@ -11,6 +11,7 @@ export default function Home() {
       <EducationSection />
       <Skills />
       <Experience />
+      <Project />
     </>
   );
 }

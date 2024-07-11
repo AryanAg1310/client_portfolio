@@ -1,9 +1,9 @@
 import { Inter } from "next/font/google";
-import "../globals.css";
-import "../card.scss"
-import Navbar from "@/components/common/Navbar";
+import "./css/globals.scss";
+import "./css/card.scss"
 import { Toaster } from "react-hot-toast";
-import ScrollToTop from "@/utils/scrollToTop";
+import Navbar from "./components/common/Navbar";
+import ScrollToTop from "./components/common/ScrollToTop";
 
 const inter = Inter({ subsets: ["latin"] });
 

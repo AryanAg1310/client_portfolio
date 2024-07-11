@@ -40,3 +40,35 @@ export const experiencecDetails = [
     duration: "April 2024 - June 2024",
   },
 ];
+
+
+export const githubBase = "https://github.com/AryanAg1310"
+export const projectsDetails = [
+    {
+        id: 1,
+        name: 'Campify',
+        description: "• Created a full-stack web application enabling users to review, rate, and comment on campgrounds",
+        tools: [
+            'nodejs',
+            'expressjs',
+            'mongoDB',
+        ],
+        github: 'Wordle',
+        live: 'https://shivir-stay.onrender.com/',
+    },
+    {
+        id: 2,
+        name: 'Blood Bank App',
+        description: 'Developed a blood bank web application facilitating blood donations to organizations',
+        tools: [
+            'Node.js',
+            'Express.js',
+            'React.js',
+            'MongoDB',
+            'Tailwind',
+
+        ],
+        github: 'share_gram',
+        live: 'https://github.com/cusp13/BloodBank-web',
+    },
+];

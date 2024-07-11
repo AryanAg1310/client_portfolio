@@ -1,8 +1,8 @@
 import { skills } from '@/utils'
-import { skillsImage } from '@/utils/SkillsImage'
 import Image from 'next/image'
 import React from 'react'
 import Marquee from 'react-fast-marquee'
+import { skillsImage } from '../common/SkillsImage'
 
 const Skills = () => {
   return (
