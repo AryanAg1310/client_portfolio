@@ -32,3 +32,11 @@ export const skills = [
   "Git",
   "Firebase",
 ];
+
+export const experiencecDetails = [
+  {
+    title: "Software Development Intern",
+    company: "Celebal Technologies",
+    duration: "April 2024 - June 2024",
+  },
+];
