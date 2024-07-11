@@ -18,3 +18,17 @@ export const educationalDetails = [
     institution: "The LNM Institute of Information Technology, Jaipur",
   },
 ];
+
+export const skills = [
+  "HTML",
+  "CSS",
+  "Javascript",
+  "Typescript",
+  "React",
+  "Next JS",
+  "Tailwind",
+  "MongoDB",
+  "MySQL",
+  "Git",
+  "Firebase",
+];
