@@ -49,9 +49,9 @@ export const projectsDetails = [
         name: 'Campify',
         description: "• Created a full-stack web application enabling users to review, rate, and comment on campgrounds",
         tools: [
-            'nodejs',
-            'expressjs',
-            'mongoDB',
+            'node',
+            'javascript',
+            'mongodb',
         ],
         github: 'Wordle',
         live: 'https://shivir-stay.onrender.com/',
@@ -61,10 +61,10 @@ export const projectsDetails = [
         name: 'Blood Bank App',
         description: 'Developed a blood bank web application facilitating blood donations to organizations',
         tools: [
-            'Node.js',
-            'Express.js',
-            'React.js',
-            'MongoDB',
+            'node',
+            'javascript',
+            'react',
+            'mongodb',
             'Tailwind',
 
         ],
